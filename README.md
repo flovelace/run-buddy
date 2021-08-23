@@ -11,3 +11,5 @@ https://flovelace.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Fairfax
+
+# Run Buddy Inc.
