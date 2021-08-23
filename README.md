@@ -12,4 +12,4 @@ https://flovelace.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Fairfax
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
